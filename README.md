@@ -54,3 +54,6 @@ This hands-on project was a comprehensive exercise in building a modern data pip
 ## Architecture Diagram
 <img src="architecture.jpeg">
 
+
+## Dashboard
+<img src="QuickSight-Dashboard.png">
